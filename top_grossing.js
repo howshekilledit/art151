@@ -1,4 +1,4 @@
-var help = "help?"
+var help = "help?";
 var films = [
   {
     "Main_Genre": "Action",
